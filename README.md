@@ -1,4 +1,4 @@
-Some of the questions might not apply in some cases (for example, not all comapanies have dedicated QAs, small companies might not have multiple teams, some companies might not have mutlple products etc.)
+Some of the questions might not apply in some cases (for example, not all comapanies have dedicated QAs, small companies might not have multiple teams, some companies might not have mutlple products etc.) and some of them are not questions, but ideas that I thought would be nice to implement in a company
 
 * What products do you have?
 * Do you have several teams working on the products?
@@ -16,7 +16,6 @@ Some of the questions might not apply in some cases (for example, not all comapa
 * Does the whole team know about the tragets and what other team members are working on?
 * Do you do code reviews? Do all the members have a change to review the code (that is, is the code review request sent to all members of the team or only to maybe a team lead?)
 * Is the whole team aware of the deicision been made(about the products that they are responsible for)?
-* Before implementing a feature, do you come up with a design?
 * Does the team make decisions or does the team take decisions from somewhere else?
 * Would you say there is technical debt in the software? If yes, is something being done to fix those?
 * How did the techinical debt come to exist in the first place? Has there been any discussion on that? 
@@ -43,6 +42,8 @@ do you use in each layer?
     * Issue tracking)
 * What is the usual workflow of fixing a bug (from being reported to going into production)?
 * What is the usual workflow of implementing a feature (from being requested to going into production)?
+* Do you encoruage changing the existing code to make sure that the new feature or bug fix fits the design?
+* Before implementing a feature, do you come up with a design?
 * Is there On-call duties?
 * Is there some live monitoring of the application to help the people who are on call?
 * Do you give the possiblility to work from home?
