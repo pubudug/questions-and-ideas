@@ -23,7 +23,7 @@ Some of the questions might not apply in some cases (for example, not all comapa
 * Do you have something similar to a retrospecitve where you would look at what you did in the last iteration and discuss how things could be done better?
 * If there is a difference of ideas between the team members how is it usually solved?
 * Is there a requirements owner(s)? (a role like Product Owner in Scurm?)? If yes, does the team have constant contact/discussions with them? Are they part of the team?
-* How do you make sure that a new starter can start contributing quickly? If you already have such a process, did you review it with the people who already went through it and discussed how it could have been made better? When does this training happen?
+* How do you make sure that a new starter can start contributing quickly? If you already have such a process, did you review it with the people who already went through it and discussed how it could have been made better? When does this training happen? If they happen infrequently, are there recordings of the trainings so that one can go through them and become informed?
 * Is there some form of documentaiton available to understand the product(domain), the architecture and design of the software? Does the documentation contain the reasons why a certain technoligy,design or architectre was selected?
 * Can you give a high-level explanation about the architecture and how modules are sepereated?
 * What kind of automated tests do you have? (unit/integration tests?) and would you say that each of the modules are well tested? If some modules do not have tests yet, are there plans on implementing automated test for those?
