@@ -40,12 +40,12 @@ do you use in each layer?
     * CI, 
     * deployement tools., 
     * Issue tracking)
+    * monitoring (logs, alerts, usage monitoring etc.)
 * What is the usual workflow of fixing a bug (from being reported to going into production)?
 * What is the usual workflow of implementing a feature (from being requested to going into production)?
 * Do you encoruage changing the existing code to make sure that the new feature or bug fix fits the design?
 * Before implementing a feature, do you come up with a design?
 * Is there On-call duties?
-* Is there some live monitoring of the application to help the people who are on call?
 * Do you give the possiblility to work from home?
 * What are the expectations from me during the first three, six, twelve months? 
 * How often will there be reviews?
