@@ -46,10 +46,10 @@ do you use in each layer?
 * Do you encoruage changing the existing code to make sure that the new feature or bug fix fits the design?
 * Before implementing a feature, do you come up with a design?
 * Is there On-call duties?
-* Do you give the possiblility to work from home?
 * What are the expectations from me during the first three, six, twelve months? 
 * How often will there be reviews?
+* Who are your competitors? What plans does the company have for the near future?
 * Are there any additional benefits (professional training budget, gym membership etc.)
 * Will I have to work overtime? Will I have to travel?
-* Who are your competitors? What plans does the company have for the near future?
 * Any dress code that developers must adhere to?
+* Do you give the possiblility to work from home?
