@@ -8,6 +8,7 @@ Some of the questions might not apply in some cases (for example, not all comapa
 * How big are the teams?
 * What is the composition of the team and what are the roles of the team members?
 * How are estimates made and how are tasks assigned?
+* Are the goals for each task clear when starting work on them? That is, are the tasks discussed within the team and reuiqrements owner before they are added to the 'to be done' tasks?
 * What other (supporting) teams are there? (sysadmins etc.)
 * How is the company organized (including non-technical teams)
 * What communication channels are used to communicate within the team and to communicate outside the team(chat channels etc.)?
