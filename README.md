@@ -48,7 +48,7 @@ do you use in each layer?
 * Before implementing a feature, do you come up with a design?
 * Is there On-call duties?
 * What are the expectations from me during the first three, six, twelve months? 
-* How often will there be reviews?
+* How often will there be performance reviews? Who will do the reviews? Is it the team members? Or a manager?
 * Who are your competitors? What plans does the company have for the near future?
 * Are there any additional benefits (professional training budget, gym membership etc.)
 * Will I have to work overtime? Will I have to travel?
